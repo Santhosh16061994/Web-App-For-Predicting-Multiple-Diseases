@@ -48,5 +48,5 @@ The model's performance is evaluated using relevant evaluation metrics specific 
 
 Contributions are welcome! If you have any suggestions, bug reports, or feature requests, please open an issue or submit a pull request.
 
-Web app link : https://predictingmultiplediseases.streamlit.app/
+Web app link: https://predictingmultiplediseases.streamlit.app/
 
